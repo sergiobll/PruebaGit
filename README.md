@@ -1,2 +1,2 @@
 # PruebaGit
-# Esto es un programa de prueba
+# Esto es un proyecto de prueba
